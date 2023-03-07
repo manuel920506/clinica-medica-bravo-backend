@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jJz8Cl1HmFckjlYdgp/zA40EKV52jCe9HzQb6YTPGOrt5ZyGnWoUBCSL7xVRhzF6hyiC23bxf6cf6UofesAyPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manue\\OneDrive\\Desktop\\clinica bravo backend\\clinica_bravo\\clinica_bravo\\clinica_bravo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manue\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\manue\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\manue\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\manue\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\manue\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\manue\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
