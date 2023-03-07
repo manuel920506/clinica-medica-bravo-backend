@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\clinica_bravo_api.props" />
+</Project>
